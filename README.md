@@ -1,6 +1,8 @@
 Patterns
 ========
 
+// The following is a factory pattern that creates a "Student" object
+
 
 function createStudent(name, class, age){
 var obj = new Object();

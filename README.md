@@ -25,7 +25,12 @@ Singleton Pattern
 var singleton (function(createStudent){
  var gender = (Math.random* 1)
  
- return gender
+ this.gender(0)
+ 
+  return girl
+ 
+ this.gender(1)
+  return boy
  
  )
 }

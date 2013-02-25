@@ -16,3 +16,16 @@ return object;
 
 
 }
+
+Singleton Pattern
+=========
+
+// So what I was going for with this is it takes the createStudent function above and creates a gender for it.
+
+var singleton (function(createStudent){
+ var gender = (Math.random* 1)
+ 
+ return gender
+ 
+ )
+}
